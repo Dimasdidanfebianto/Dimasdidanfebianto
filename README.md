@@ -34,10 +34,10 @@
 ![](https://komarev.com/ghpvc/?username=vipcodestudio&color=447ff7&label=Visitor+count)
 
 <p align="center">
-  <a href="https://github.com/vipcodestudio">
-    <img src="https://github-readme-stats.vercel.app/api?username=vipcodestudio&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipcodestudio&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=vipcodestudio&theme=react-dark" />
+  <a href="https://github.com/Dimasdidanfebianto">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dimasdidanfebianto&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimasdidanfebianto&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Dimasdidanfebianto&theme=react-dark" />
 </a>
 </p>
 
