@@ -20,7 +20,7 @@
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
     <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding:15px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://icons8.com/icon/38561/postgresql" height=60 width=60 /> </a>
+    <a style="padding:15px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://icons8.com/icon/38561/postgresql" /> </a>
 </p>
 
 ### 🔹Architectural Styles:ㅤㅤㅤㅤㅤㅤㅤㅤ
